@@ -1,0 +1,8 @@
+# You can see what browsers were selected by your queries by running:
+#   npx browserslist
+
+last 1 Chrome version
+last 1 Firefox version
+last 1 Edge versions
+last 1 Safari versions
+last 1 iOS versions
